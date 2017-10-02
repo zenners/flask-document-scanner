@@ -4,8 +4,7 @@
 I read this blog post. https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 I wanted to use this a service to use to build applications with. The idea is to send the image you want over HTTP and get back the scanned image as a response.
 
-![20161215-160329-largejpg](https://user-images.githubusercontent.com/3746914/31070957-ead279f8-a794-11e7-9c77-33bfb8acab0e.jpg)
-![Uploading 20161215-160329-largejpg.jpg…]()
+![20161215-160329-largejpg](https://user-images.githubusercontent.com/3746914/31071089-537171da-a795-11e7-9d59-9acbcd2ccccd.jpg)
 
 
 ## Setup
