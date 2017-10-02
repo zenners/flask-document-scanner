@@ -1,4 +1,9 @@
 # flask-document-scanner
+
+## Inspiration
+I read this blog post. https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+I wanted to use this a service to use to build applications with. The idea is to send the image you want over HTTP and get back the scanned image as a response.
+
 ## Setup
 I tested this with Python 3. Create your environment and install the packages with `pip install`.
 
