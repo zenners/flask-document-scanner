@@ -4,7 +4,7 @@
 I read this blog post. https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 I wanted to use this a service to use to build applications with. The idea is to send the image you want over HTTP and get back the scanned image as a response.
 
-![alt text](https://raw.githubusercontent.com/zenners/flask-document-scanner/master/uploads/receipt.png)
+![20161215-160329-largejpg](https://user-images.githubusercontent.com/3746914/31070957-ead279f8-a794-11e7-9c77-33bfb8acab0e.jpg)
 
 ## Setup
 I tested this with Python 3. Create your environment and install the packages with `pip install -r requirements.txt`.
