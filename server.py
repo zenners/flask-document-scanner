@@ -5,7 +5,7 @@ import cv2
 
 from flask import Flask, render_template, Response, jsonify, request, send_file, send_from_directory
 from pprint import pprint
-from werkzeug.utils import secure_filenamee
+from werkzeug.utils import secure_filename
 from pyimagesearch.transform import four_point_transform
 from pyimagesearch import imutils
 from skimage.filters import threshold_adaptive
